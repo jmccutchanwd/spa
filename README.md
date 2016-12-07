@@ -2,7 +2,7 @@
 
 This repository contains the exercises from Part 3 of the Front End Course.
 
-![Octocat](https://github.com/jmccutchanwd/spa/blob/dev/jedi-cat.png)
+![Octocat](https://github.com/jmccutchanwd/spa/blob/master/jedi-cat2.png)
 
 #### Advanced Functions
 
