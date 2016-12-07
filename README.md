@@ -2,7 +2,11 @@
 
 This repository contains the exercises from Part 3 of the Front End Course.
 
+<<<<<<< HEAD
 ![Octocat](https://github.com/jmccutchanwd/spa/blob/dev/jedi-cat.png)
+=======
+![Octocat](https://github.com/jmccutchanwd/spa/blob/master/jedi-cat2.png)
+>>>>>>> 39399f5a4e3b3f48084d6acefe096b653c333e28
 
 #### Advanced Functions
 
@@ -44,3 +48,7 @@ This repository contains the exercises from Part 3 of the Front End Course.
 1. [For](SP_MM_FOR.md)
 1. [Objects](SP_MM_OBJECTS.md)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 39399f5a4e3b3f48084d6acefe096b653c333e28
