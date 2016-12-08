@@ -15,7 +15,7 @@
 
 1. [String manipulation](https://github.com/jmccutchanwd/spa/tree/master/string-manipultion)
 1. [Array method chaining](https://github.com/jmccutchanwd/spa/tree/master/chaining)
-1. [Solar system]()
+1. [Solar system](https://github.com/jmccutchanwd/spa/tree/master/solar-system)
 
 #### Event Listeners
 
