@@ -9,18 +9,18 @@
 
 #### Advanced Functions
 
-1. [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator/README.md)
+1. [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator/README.md) [ ] In Progress | [ ] Complete
 
 #### Array Functions
 
-1. [String manipulation](https://github.com/jmccutchanwd/spa/tree/master/string-manipultion)
-1. [Array method chaining](https://github.com/jmccutchanwd/spa/tree/master/chaining)
-1. [Solar system](https://github.com/jmccutchanwd/spa/tree/master/solar-system)
+1. [String manipulation](https://github.com/jmccutchanwd/spa/tree/master/string-manipultion) [ ] In Progress | [ ] Complete
+1. [Array method chaining](https://github.com/jmccutchanwd/spa/tree/master/chaining) [ ] In Progress | [ ] Complete
+1. [Solar system](https://github.com/jmccutchanwd/spa/tree/master/solar-system) [ ] In Progress | [ ] Complete
 
 #### Event Listeners
 
 1. [Guinea pig]()
-1. [Dynamic cards]()
+1. [Dynamic cards](https://github.com/jmccutchanwd/spa/blob/master/dynamic-cards/README.md)
 1. [WYSIWYG]()
 1. [Music History 3]()
 1. [TSA]()
@@ -28,7 +28,7 @@
 #### XHRs
 
 1. [Music History 4]()
-1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [x] In Progress | [ ] Complete
+1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [ ] In Progress | [x] Complete
 1. [IIFE, XHRs and Callbacks, Oh My]()
 1. [Pet food]()
 
