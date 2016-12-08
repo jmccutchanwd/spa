@@ -21,9 +21,9 @@
 
 1. [Guinea pig]() - [ ] In Progress | [ ] Complete
 1. [Dynamic cards](https://github.com/jmccutchanwd/spa/blob/master/dynamic-cards/README.md) - [ ] In Progress | [ ] Complete
-1. [WYSIWYG]() - [ ] In Progress | [ ] Complete
-1. [Music History 3]() - [ ] In Progress | [ ] Complete
-1. [TSA]() - [ ] In Progress | [ ] Complete
+1. [WYSIWYG](https://github.com/jmccutchanwd/spa/blob/master/wysiwyg/README.md) - [ ] In Progress | [ ] Complete
+1. [Music History 3](https://github.com/jmccutchanwd/spa/blob/master/music-history-3/README.md) - [ ] In Progress | [ ] Complete
+1. [TSA](https://github.com/jmccutchanwd/spa/blob/master/tsa/README.md) - [ ] In Progress | [ ] Complete
 
 #### XHRs
 
