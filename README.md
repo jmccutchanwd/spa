@@ -19,29 +19,29 @@
 
 #### Event Listeners
 
-1. [Guinea pig]()
+1. [Guinea pig]() [ ] In Progress | [ ] Complete
 1. [Dynamic cards](https://github.com/jmccutchanwd/spa/blob/master/dynamic-cards/README.md)
-1. [WYSIWYG]()
-1. [Music History 3]()
-1. [TSA]()
+1. [WYSIWYG]() [ ] In Progress | [ ] Complete
+1. [Music History 3]() [ ] In Progress | [ ] Complete
+1. [TSA]() [ ] In Progress | [ ] Complete
 
 #### XHRs
 
-1. [Music History 4]()
+1. [Music History 4]() [ ] In Progress | [ ] Complete
 1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [ ] In Progress | [x] Complete
-1. [IIFE, XHRs and Callbacks, Oh My]()
-1. [Pet food]()
+1. [IIFE, XHRs and Callbacks, Oh My]() [ ] In Progress | [ ] Complete
+1. [Pet food]() [ ] In Progress | [ ] Complete
 
 ## Group Exercises
 
-1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers)
+1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers) [ ] In Progress | [ ] Complete
 
 # In-class Exercises
 
-1. Planets
+1. Planets [ ] In Progress | [ ] Complete
 
 # Muscle Memory Exercises
 
-1. [Arrays]()
-1. [For]()
-1. [Objects]()
+1. [Arrays]() [ ] In Progress | [ ] Complete [ ] In Progress | [ ] Complete
+1. [For]() [ ] In Progress | [ ] Complete
+1. [Objects]() [ ] In Progress | [ ] Complete
