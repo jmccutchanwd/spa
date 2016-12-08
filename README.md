@@ -32,7 +32,7 @@
 1. [IIFE, XHRs and Callbacks, Oh My]()
 1. [Pet food]()
 
-## Group Execercise
+## Group Exercises
 
 1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers)
 
