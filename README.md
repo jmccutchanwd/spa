@@ -13,7 +13,7 @@
 
 #### Array Functions
 
-1. [String manipulation]()
+1. [String manipulation](https://github.com/jmccutchanwd/spa/tree/master/string-manipultion)
 1. [Array method chaining]()
 1. [Solar system]()
 
