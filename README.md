@@ -1,9 +1,6 @@
 #SPA Front End
 
 This repository contains the exercises from Part 3 of the Front End Course.
-
-<<<<<<< HEAD
-![Octocat](https://github.com/jmccutchanwd/spa/blob/dev/jedi-cat.png)
 =======
 ![Octocat](https://github.com/jmccutchanwd/spa/blob/master/jedi-cat2.png)
 >>>>>>> 39399f5a4e3b3f48084d6acefe096b653c333e28
