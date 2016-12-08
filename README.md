@@ -9,7 +9,7 @@
 
 #### Advanced Functions
 
-1. [Calculator]()
+1. [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator/README.md)
 
 #### Array Functions
 
