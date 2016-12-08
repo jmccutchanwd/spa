@@ -27,9 +27,9 @@
 
 #### XHRs
 
-1. [Music History 4]() - [ ] In Progress | [ ] Complete
+1. [Music History 4](https://github.com/jmccutchanwd/spa/tree/master/music-history-4) - [ ] In Progress | [ ] Complete
 1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [ ] In Progress | [x] Complete
-1. [IIFE, XHRs and Callbacks, Oh My]() - [ ] In Progress | [ ] Complete
+1. [IIFE, XHRs and Callbacks, Oh My](https://github.com/jmccutchanwd/spa/blob/master/mind-melting/README.md) - [ ] In Progress | [ ] Complete
 1. [Pet food]() - [ ] In Progress | [ ] Complete
 
 ## Group Exercises
