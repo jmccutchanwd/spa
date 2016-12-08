@@ -33,7 +33,7 @@
 #### XHRs
 
 1. [Music History 4](SP_JS_MUSIC_HISTORY_4.md)
-1. [Seasonal sales](SP_JS_XHR_SEASONAL_SALES.md) - [x] In Progress | [ ] Complete
+1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [x] In Progress | [ ] Complete
 1. [IIFE, XHRs and Callbacks, Oh My](SP_JS_XHR_MIND_MELTING.md)
 1. [Pet food](SP_JS_XHR_FOOD.md)
 
@@ -46,8 +46,3 @@
 1. [Arrays](SP_MM_ARRAYS.md)
 1. [For](SP_MM_FOR.md)
 1. [Objects](SP_MM_OBJECTS.md)
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 39399f5a4e3b3f48084d6acefe096b653c333e28
