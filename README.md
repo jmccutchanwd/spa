@@ -9,7 +9,7 @@
 
 ##Advanced Functions
 
-* [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator) - [ ] In Progress | [ ] Complete
+* [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator) - [ ] In Progress | [x] Complete
 
 ##Array Functions
 
