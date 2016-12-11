@@ -9,7 +9,7 @@
 
 ##Advanced Functions
 
-1. [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator) - [ ] In Progress | [ ] Complete
+* [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator) - [ ] In Progress | [ ] Complete
 
 ##Array Functions
 
@@ -34,11 +34,11 @@
 
 ##Group Exercises
 
-1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers) - [ ] In Progress | [ ] Complete
+* [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers) - [ ] In Progress | [x] Complete
 
 ## In-class Exercises
 
-1. Planets - [ ] In Progress | [ ] Complete
+* Planets - [ ] In Progress | [ ] Complete
 
 ## Muscle Memory Exercises
 
@@ -50,4 +50,4 @@
 
 #Challenge
 
-1. [Challenge](https://github.com/nss-day-cohort-17/mastey-exercise-single-page-app-jmccutchanwd) - [ ] In Progress | [x] Complete
+* [Challenge](https://github.com/nss-day-cohort-17/mastey-exercise-single-page-app-jmccutchanwd) - [ ] In Progress | [x] Complete
