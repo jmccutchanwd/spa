@@ -45,3 +45,9 @@
 1. [Arrays](https://github.com/jmccutchanwd/spa/blob/master) - [ ] In Progress | [ ] Complete
 1. [For](https://github.com/jmccutchanwd/spa/edit/master/for) - [ ] In Progress | [ ] Complete
 1. [Objects](https://github.com/jmccutchanwd/spa/blob/master/objects) - [ ] In Progress | [ ] Complete
+
+***
+
+# Single Page Applications Challenge
+
+1. [Challenge](https://github.com/nss-day-cohort-17/mastey-exercise-single-page-app-jmccutchanwd) - [ ] In Progress | [x] Complete
