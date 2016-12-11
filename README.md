@@ -36,11 +36,11 @@
 
 1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers) - [ ] In Progress | [ ] Complete
 
-##In-class Exercises
+## In-class Exercises
 
 1. Planets - [ ] In Progress | [ ] Complete
 
-##Muscle Memory Exercises
+## Muscle Memory Exercises
 
 1. [Arrays](https://github.com/jmccutchanwd/spa/blob/master) - [ ] In Progress | [ ] Complete
 1. [For](https://github.com/jmccutchanwd/spa/edit/master/for) - [ ] In Progress | [ ] Complete
