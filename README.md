@@ -7,17 +7,17 @@
 ![Octocat](https://github.com/jmccutchanwd/spa/blob/master/jedi-cat2.png)
 
 
-#### Advanced Functions
+##Advanced Functions
 
 1. [Calculator](https://github.com/jmccutchanwd/spa/blob/master/calculator) - [ ] In Progress | [ ] Complete
 
-#### Array Functions
+##Array Functions
 
 1. [String manipulation](https://github.com/jmccutchanwd/spa/tree/master/string-manipultion) - [ ] In Progress | [ ] Complete
 1. [Array method chaining](https://github.com/jmccutchanwd/spa/tree/master/chaining) - [ ] In Progress | [ ] Complete
 1. [Solar system](https://github.com/jmccutchanwd/spa/tree/master/solar-system) - [ ] In Progress | [ ] Complete
 
-#### Event Listeners
+##Event Listeners
 
 1. [Guinea pig]() - [ ] In Progress | [ ] Complete
 1. [Dynamic cards](https://github.com/jmccutchanwd/spa/blob/master/dynamic-cards) - [ ] In Progress | [ ] Complete
@@ -25,22 +25,22 @@
 1. [Music History 3](https://github.com/jmccutchanwd/spa/blob/master/music-history-3) - [ ] In Progress | [ ] Complete
 1. [TSA](https://github.com/jmccutchanwd/spa/blob/master/tsa/README.md) - [ ] In Progress | [ ] Complete
 
-#### XHRs
+##XHRs
 
 1. [Music History 4](https://github.com/jmccutchanwd/spa/tree/master/music-history-4) - [ ] In Progress | [ ] Complete
 1. [Seasonal sales](https://github.com/jmccutchanwd/spa/tree/master/seasonal-sales) - [ ] In Progress | [x] Complete
 1. [IIFE, XHRs and Callbacks, Oh My](https://github.com/jmccutchanwd/spa/blob/master/mind-melting) - [ ] In Progress | [ ] Complete
 1. [Pet food](https://github.com/jmccutchanwd/spa/tree/master/food) - [ ] In Progress | [ ] Complete
 
-## Group Exercises
+##Group Exercises
 
 1. [Chatty Board](https://github.com/nss-day-cohort-17/chatty-respected-intelligent-programmers) - [ ] In Progress | [ ] Complete
 
-# In-class Exercises
+##In-class Exercises
 
 1. Planets - [ ] In Progress | [ ] Complete
 
-# Muscle Memory Exercises
+##Muscle Memory Exercises
 
 1. [Arrays](https://github.com/jmccutchanwd/spa/blob/master) - [ ] In Progress | [ ] Complete
 1. [For](https://github.com/jmccutchanwd/spa/edit/master/for) - [ ] In Progress | [ ] Complete
@@ -48,6 +48,6 @@
 
 ***
 
-# Single Page Applications Challenge
+#Challenge
 
 1. [Challenge](https://github.com/nss-day-cohort-17/mastey-exercise-single-page-app-jmccutchanwd) - [ ] In Progress | [x] Complete
