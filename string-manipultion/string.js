@@ -15,7 +15,6 @@ document.querySelector("body").addEventListener("click", function(e) {
 /* ================================= */
 var testString = "";
 var outPut = "";
-var outHTML = "";
 //
 /* ================================= */
 /* ====== Listeners ================ */
@@ -36,11 +35,12 @@ function getString(){
 /* ====== Reversal ================= */
 /* ================================= */
 function reversal() {
-  for(var i = 0; i < testString.length; i ++){
+  for(var i = testString.length; i > 0; i--){
     console.log(i);
-
+    outPut += testString.slice(i-1,i);
+    console.log(outPut);
   }
-  console.log("Reversal");
+  document.getElementById("putTextHere").innerHTML = `<h3>Backwards: ${outPut}</h3>`
   alphabits();
 }
 //
@@ -48,9 +48,9 @@ function reversal() {
 /* ====== Alphabits ================ */
 /* ================================= */
 function alphabits() {
-  for(var i = 0; i < testString.length; i ++){
-    console.log(i);
-  }
+  var alpha = outPut.split('').sort().join('');
+  document.getElementById("putTextHere").innerHTML += `<h3>Alphabetical: ${alpha}</h3>`
+  alphabits();
   console.log("Alphabits");
   palindrome();
 }
@@ -59,10 +59,10 @@ function alphabits() {
 /* ====== Palindrome =============== */
 /* ================================= */
 function palindrome() {
-  for(var i = 0; i < testString.length; i ++){
-    console.log(i);
+  if(testString === outPut){
+  document.getElementById("putTextHere").innerHTML += `<h3>This is a Palindrome.</h3>`
   }
-  console.log("Palindrome");
+  console.log("Palindrome", outPut);
 }
 // END
 
