@@ -46,7 +46,7 @@ footer{
   margin-bottom: 2px;
   min-height: 140px;
 }
-#putNumHere{
+#putTextHere{
   width: 90%;
   height: 200px;
   margin: 2% 5%;
@@ -56,7 +56,7 @@ footer{
 }
 #buttonRow{}
 button{
-  width: 100px;
+  width: 200px;
 }
 /*============ Structure END ===========*/
 /*============ Skin ====================*/
@@ -116,7 +116,7 @@ li{
   border: 1px solid rgba(0, 0, 0,0.5);
   border-radius: 5px;
 }
-#putNumHere{
+#putTextHere{
   border: 10px solid rgba(52, 73, 94,1.0);
   font-size: 8em;
   font-weight: bolder;
